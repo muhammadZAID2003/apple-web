@@ -1,0 +1,51 @@
+li{
+
+   display : inline;
+   color: white;
+   
+    
+   
+   font-size: 12px;
+}
+ul{
+    background-color: rgb(26, 20, 20);
+    word-spacing: 30px;
+    text-align: center;
+    margin-right: 30px;
+    margin-top:-10px;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    margin-left:500px;
+    margin-top: 50px;
+    margin-bottom: -25px;
+}
+h2{
+    color: white;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+h3{
+    display: inline;
+    color: blue;
+    text-decoration: underline;
+    
+}
+h3.one{
+    margin: 550px;
+}
+h3.two{
+    margin-left: -500px;
+}
+body{ 
+    
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-image: url("pageone.png") ;
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
